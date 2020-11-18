@@ -1,5 +1,5 @@
 # ng-mat-profiles
-This is an Angular project that uses Angular Material for components and themes.
+This is an Angular project that uses Angular Material for components and themes and serves an App that allows to manage your personal or work profiles.
 
 ## Features
   * User can create/edit/delete/duplicate/print its one or more profiles.
